@@ -1,6 +1,6 @@
 # Model Loader with OpenGL and C++
 
-## Revisited Graphics Concepts and Concepts of Loader and Linking
+## Revisited Graphics Concepts and Concepts of Loader and Linking and Implementation of Model Loading From LearnOpengl.com
 
 
 ## Dependencies
